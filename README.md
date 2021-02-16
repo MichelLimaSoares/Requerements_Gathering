@@ -1,1 +1,5 @@
-# Requerements_Gathering
+# Requerements Gathering
+
+## requirements gathering in academic laboratory.
+## Class: Software Engineering
+
